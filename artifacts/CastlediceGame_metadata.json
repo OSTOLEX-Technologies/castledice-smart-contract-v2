@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CastlediceGame.sol": "CastlediceGame"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CastlediceGame.sol": {
+			"keccak256": "0xc9d572a209924a3e9542e4f350e6b4d036f20521c188db6cc99e26ea069001bf",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://ffa66b97782557f72d68cf98a8a396fe7c01c61da4c4a539ab72e795d31d7d99",
+				"dweb:/ipfs/QmaZGTK8ndVZ9JW1NDBQtzALw4eQC1goKisHtUbqwmsVjc"
+			]
+		}
+	},
+	"version": 1
+}

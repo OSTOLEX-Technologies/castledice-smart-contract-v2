@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "FIELD_HEIGHT",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "FIELD_WIDTH",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GameConstants.sol": "GameConstants"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GameConstants.sol": {
+			"keccak256": "0x5b782e5148f2bc098c772ec0a6e911a0f62b7cc372797a9aaa71d06ded5aa026",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://706f5ef2e8c237fb6781f35bce800bdacebadd12f3063859fb983046793895f1",
+				"dweb:/ipfs/QmUqF99Vuk5waPSZRx6KnQ8hDAKs2r1TaWjAAeLJYZyegr"
+			]
+		}
+	},
+	"version": 1
+}
